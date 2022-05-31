@@ -19,5 +19,13 @@
   "bin" : {
     "random-msg" : "./bin/global.js"
   },
-  "preferGlobal" : true
+  "preferGlobal" : true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoJCC/random-messages-package"
+  },
+  "bugs": {
+    "url": "https://github.com/FranciscoJCC/random-messages-package/issues"
+  },
+  "homepage": "https://github.com/FranciscoJCC/random-messages-package#readme"
 }
